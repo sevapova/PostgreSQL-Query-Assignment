@@ -1,0 +1,1 @@
+# PostgreSQL-Query-Assignment
